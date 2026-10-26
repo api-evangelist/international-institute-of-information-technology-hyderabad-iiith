@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-International Institute of Information Technology Hyderabad (IIITH) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://lsi.iiit.ac.in/
+The International Institute of Information Technology Hyderabad (IIITH) is a premier public technical university and research institute in Hyderabad, India. Established in 2008, it offers undergraduate, postgraduate and doctoral programs in engineering, sciences and technology. IIITH is known for its strong emphasis on research, innovation, and industry collaboration, fostering a vibrant ecosystem of startups and technology transfer. The institute maintains several labs, centers of excellence, and hosts conferences, contributing significantly to the Indian and global tech landscape.
+
+**Areas:** Company · Education · Research · Technology · India · University
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lsi.iiit.ac.in/)
+- [Documentation](https://help.iiit.ac.in/)
+- [Support](https://help.iiit.ac.in/login?back_url=https%3A%2F%2Fhelp.iiit.ac.in%2F)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/international-institute-of-information-technology-hyderabad-iiith/](https://apis.io/providers/international-institute-of-information-technology-hyderabad-iiith/).
